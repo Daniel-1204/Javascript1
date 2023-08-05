@@ -3,7 +3,7 @@
 // se les pregunta el año en que nacieron. Realiza el algoritmo para solucionar
 // este problema.
 let yearBirth = prompt("Ingrese su año de nacimiento: ");
-age = (2023-parseFloat(yearBirth));
+age = (2023-parseInt(yearBirth));
 
 alert("La edad del aspirante es: "+ age)
 

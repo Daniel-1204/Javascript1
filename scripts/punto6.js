@@ -6,8 +6,8 @@ let a = prompt("Ingrese el valor A del triangulo");
     b = prompt("Ingrese el valor B del triangulo");
 
 op = ((parseInt(a)**2)+(parseInt(b)**2))
-op1= (op**2) 
+op1 = (op**2) 
 
 console.log("La hipotenusa del triangulo es: "+ op1)
 
-alert("La hipotenusa del triangulo es: "+ op1)
+alert("La hipotenusa del triangulo es: "+ op1) 
